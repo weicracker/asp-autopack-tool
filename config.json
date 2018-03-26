@@ -1,0 +1,25 @@
+{
+    "appname": {
+        "taskApp": "task",
+        "appstore": "appstore",
+        "settings": "settings",
+        "portalApp": "portal",
+        "searchApp": "search",
+        "chatApp": "chat",
+        "viewerApp": "viewer",
+        "appcenterApp": "appcenter",
+        "usercenter": "usercenter",
+        "developerApp": "developer",
+        "EMSVIEWER": "emsviewer",
+        "EMSEDITAPP": "emsmodel",
+        "collectApp": "collect",
+        "calendarApp": "calendar",
+        "notificationApp": "notification",
+        "EMSAPP": "navapp",
+        "audit-manager": "audit",
+        "desktopapp": "desktop"
+    },
+    "domin": "git@10.0.32.99:",
+    "targetpath": "asppack\\",
+    "symlink": "D:\\ASPWork\\baseFrontEnd\\ASPPortal\\node_modules"
+}
